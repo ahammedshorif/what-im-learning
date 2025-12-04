@@ -1,2 +1,2 @@
 # what-im-learning
-# Nextjs
+Rust- (https://youtu.be/joCFbTJt0o0?si=WrgB1Ldi8WKgzig-)
